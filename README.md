@@ -34,8 +34,9 @@ This is a command-line based AI tool powered by Google's **Gemini Pro** using **
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/your-username/ai-math-assistant.git
-cd ai-math-assistant
+git clone https://github.com/honoursbhaduria/AI_python-project.git
+cd AI_python-project
+cd project-1
 ````
 
 2. **Install dependencies**:
@@ -122,8 +123,9 @@ This project is a **Streamlit web app** that allows users to upload their resume
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/your-username/resume-critiquer.git
-cd resume-critiquer
+git clone https://github.com/honoursbhaduria/AI_python-project.git
+cd AI_python-project
+cd project-2
 ````
 
 2. **Install dependencies**:
@@ -137,7 +139,7 @@ pip install -r requirements.txt
 Create a `.env` file in the root:
 
 ```env
-OPENAI_API_KEY=your_openai_api_key
+OPENAI_API_KEY= your_openai_api_key 
 ```
 
 4. **Run the app**:
