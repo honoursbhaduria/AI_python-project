@@ -1,0 +1,15 @@
+#PROJECT -1
+
+langgraph
+langchain
+langchain-google-genai
+python-dotenv
+
+
+
+#PROJECT -2
+streamlit
+PyPDF2
+openai
+python-dotenv
+streamlit-chat
