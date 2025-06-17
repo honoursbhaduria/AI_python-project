@@ -147,13 +147,6 @@ OPENAI_API_KEY= your_openai_api_key
 ```bash
 streamlit run app.py
 ```
-
----
-
-## 📸 Screenshot
-
-*(Optional: insert image here if you want to include a screenshot of your UI)*
-
 ---
 
 ## 📂 File Structure
